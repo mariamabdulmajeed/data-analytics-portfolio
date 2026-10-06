@@ -5,6 +5,7 @@ Welcome to my Data Analytics Portfolio.
 ## Skills
 - SQL
 - Power BI
+- Data Studio (Looker Studio)
 - Excel
  
 ## Projects
