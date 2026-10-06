@@ -9,7 +9,6 @@ Welcome to my Data Analytics Portfolio.
 - Excel
  
 ## Projects
- 
 ### Sales Analytics Project
 Business intelligence dashboard analyzing sales performance, profit, and customer trends.
  
